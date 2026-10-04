@@ -1,4 +1,7 @@
-<h1 align="center">
+### Quantitative Trading Context
+I leverage this Darwin Gödel Machine (DGM) framework within my quantitative trading architecture to develop self-improving agents. These agents help continuously optimize execution logic and signal processing for zero-days-to-expiration (0DTE) options and intraday futures strategies (ES, NQ) using real-time Databento feeds and custom Python/C++ execution engines.
+
+---<h1 align="center">
     Darwin Gödel Machine:<br/>Open-Ended Evolution of Self-Improving Agents
 </h1>
 
